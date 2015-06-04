@@ -3,9 +3,6 @@
 
 #################################
 # programmed by Florian Schauer #
-# designed in carlifonia        #
-# assembled in china            #
-# ... :)                        #
 #################################
 
 
